@@ -1,0 +1,23 @@
+.bg-black{
+    background: #fff;
+}
+.top-social-warraper li a{
+    color: #000;
+}
+.user-info-top > ul li a{
+    color: #000;
+}
+.main-menu.main-menu-2 ul > li > a{
+    color: #000;    
+}
+
+.main-menu ul > li > a{
+    padding: 0px 15px 12px;
+}
+.drak-footer .footer-content .footer_list_info li, .drak-footer .footer-content .footer_list_info li a, .drak-footer .copyright, .drak-footer .copyright a,
+.drak-footer .newsletter-title h2, .footer-content .footer-title{
+    color: #000 !important;    
+}
+.drak-footer .footer-content .footer_list li a:hover{
+    color: #000;
+}
